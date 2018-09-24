@@ -1,0 +1,12 @@
+.buttCont,
+.main {
+  width: 100%;
+}
+.gifs {
+  width: 70%;
+  float: left;
+}
+.search {
+  width: 30%;
+  float: right;
+}
